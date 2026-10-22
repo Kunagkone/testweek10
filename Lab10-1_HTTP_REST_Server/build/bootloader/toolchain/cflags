@@ -1,0 +1,6 @@
+"-specs=D:/all_data_my_PC/testweek10/Lab10-1_HTTP_REST_Server/build/bootloader/specs/picolibc.specs"
+-Wno-frame-address
+-mlongcalls
+-fno-builtin-memcpy
+-fno-builtin-memset
+-fno-builtin-bzero

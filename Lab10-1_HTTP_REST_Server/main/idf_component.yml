@@ -1,0 +1,4 @@
+dependencies:
+  idf: ">=4.1.0"
+  espressif/mdns: "*"
+  espressif/cjson: "*"
